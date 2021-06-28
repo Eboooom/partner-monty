@@ -56,4 +56,4 @@ client.user.setGame(`eBo's bot reklam`)
 
 
 
-client.login("ODU4NzgwMjc3ODMxNzYxOTUw.YNjHdQ.PS0gaee6OAKg8vZEB5RnzCXER6Y");// Your Token
+client.login("ODU4NzgwMjc3ODMxNzYxOTUw.YNjHdQ.L5Eux9QsLfnxMGnfg1YJmDDiWfU");// Your Token
